@@ -34,6 +34,7 @@ where membercost != 0
 
 select count(*) from Facilities
 where membercost = 0
+
  
 
 /* Q3: How can you produce a list of facilities that charge a fee to members,
