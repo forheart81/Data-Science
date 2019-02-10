@@ -8,6 +8,7 @@ The data source is from the Yelp Open Dataset https://www.yelp.com/dataset. The 
 
 All the code is in the jupyter notebook file: Sentiment Analysis of the Yelp Reviews.ipynb. 
 It also includes:
+
 Project proposal: Yelp Review Sentiment Analysis_ Project Proposal.pdf
 
 Milestone Reports: Milestone Report 1_ Yelp Reviews Analysis.pdf and Milestone Report 2_ Yelp Reviews Analysis.pdf
