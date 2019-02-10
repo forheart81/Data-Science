@@ -6,10 +6,14 @@ The first part of this project is the prediction of review stars using Natural L
 
 The data source is from the Yelp Open Dataset https://www.yelp.com/dataset. The dataset is in the json format. Business.json and review.json were used in this project. 
 
-All the code is in the jupyter notebook file: Sentiment Analysis of the Yelp Reviews.ipynb. It also includes:
+All the code is in the jupyter notebook file: Sentiment Analysis of the Yelp Reviews.ipynb. 
+It also includes:
 Project proposal: Yelp Review Sentiment Analysis_ Project Proposal.pdf
+
 Milestone Reports: Milestone Report 1_ Yelp Reviews Analysis.pdf and Milestone Report 2_ Yelp Reviews Analysis.pdf
+
 Final Report: Final Report_ Yelp Reviews Analysis.pdf
+
 Presentation Slides: Yelp Review Sentiment Analysis and Food Recommendation_ Slides.pdf
 
 Required Python libraries:
